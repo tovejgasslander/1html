@@ -1,0 +1,9 @@
+<!DOCTYPE css>
+<title> = pink
+<h1> = green
+<#start
+#om
+#kontakt
+ol.c {
+    list-style-type: upper-roman;
+}
